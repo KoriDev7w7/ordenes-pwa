@@ -1,0 +1,6 @@
+﻿body{font-family:system-ui,Segoe UI,Roboto,Arial;padding:12px;background:#0b0b0b;color:#eaeaea}
+header{display:flex;justify-content:space-between;align-items:center}
+button{padding:6px 10px;border-radius:6px;border:none;cursor:pointer}
+table{width:100%;border-collapse:collapse;margin-top:10px}
+th,td{border:1px solid #222;padding:8px;text-align:left}
+th{background:#111}
